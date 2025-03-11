@@ -5,7 +5,8 @@
 - รหัส: 673450394-8
 
 ## Class Diagram
-![Class Diagram](class-diagram.png)
+![Class Diagram]![Uploading DALL·E 2025-03-11 12.25.46 - A UML Class Diagram for a Student Management System. The diagram includes___1. __Person (Base Class)___   - Attributes_ Name (string), Department (str.png…]()
+
 
 ## หลักการ OOP ที่ใช้
 - **Encapsulation**: ซ่อนข้อมูลภายใน `private`  
