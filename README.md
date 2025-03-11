@@ -1,6 +1,6 @@
 # Student Management System (C# WinForms)
 
-ข้อมูล
+##ข้อมูล
 - ชื่อ: นาย วิชาภพ สดใส
 - รหัส: 673450394-8
 
